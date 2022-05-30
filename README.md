@@ -1,15 +1,7 @@
 # Webpack Starter
 
-This is the starter project to start creating applications using webpack.
+This is a basic JS project to play around with webpack and with the local storage
 
 ### Notes:
-Remember reconstruct Node modules
+I do not own the HTML or CSS of the project I have only written the JS code to make the page work!
 
-```
-npm install
-```
-
-And to build the build, remember: 
-```
-npm run build
-```
